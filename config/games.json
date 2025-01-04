@@ -6,33 +6,9 @@
     "new": false
   },
   {
-    "name": "1v1space",
-    "image": "splash.png",
-    "url": "1v1space",
-    "new": false
-  },
-  {
-    "name": "10 Minutes Till Dawn",
-    "image": "splash.png",
-    "url": "10-minutes-till-dawn",
-    "new": false
-  },
-  {
-    "name": "100ng",
-    "image": "100ng.jpg",
-    "url": "100ng",
-    "new": false
-  },
-  {
     "name": "2048",
     "image": "2048.png",
     "url": "2048",
-    "new": false
-  },
-  {
-    "name": "2048 Multitask",
-    "image": "splash.png",
-    "url": "2048-multitask",
     "new": false
   },
   {
@@ -54,18 +30,6 @@
     "new": false
   },
   {
-    "name": "Offline Paradise",
-    "image": "assets/icon.jpeg",
-    "url": "OfflineParadise",
-    "new": false
-  },
-  {
-    "name": "Stickman Survival",
-    "image": "Icon.png",
-    "url": "Stickman-Survival",
-    "new": false
-  },
-  {
     "name": "A Dance of Fire and Ice",
     "image": "splash.png",
     "url": "a-dance-of-fire-and-ice",
@@ -81,12 +45,6 @@
     "name": "A Dark Room",
     "image": "splash.png",
     "url": "adarkroom",
-    "new": false
-  },
-  {
-    "name": "Adrenaline Challenge",
-    "image": "adrenalinechallenge.jpg",
-    "url": "adrenalinechallenge",
     "new": false
   },
   {
@@ -108,18 +66,6 @@
     "new": false
   },
   {
-    "name": "Align 4",
-    "image": "board.png",
-    "url": "align-4",
-    "new": false
-  },
-  {
-    "name": "Amidst the Clouds",
-    "image": "splash.png",
-    "url": "amidst-the-clouds",
-    "new": false
-  },
-  {
     "name": "Among Us",
     "image": "red.png",
     "url": "among-us",
@@ -135,24 +81,6 @@
     "name": "Aquapark Slides",
     "image": "splash.png",
     "url": "aquapark-slides",
-    "new": false
-  },
-  {
-    "name": "Astray",
-    "image": "splash.png",
-    "url": "astray",
-    "new": false
-  },
-  {
-    "name": "Avalanche",
-    "image": "avalanche.png",
-    "url": "avalanche",
-    "new": false
-  },
-  {
-    "name": "Awesome Tanks 2",
-    "image": "awesometanks2.jpg",
-    "url": "awesometanks2",
     "new": false
   },
   {
@@ -210,12 +138,6 @@
     "new": false
   },
   {
-    "name": "Battle for Gondor",
-    "image": "battleforgondor.JPG",
-    "url": "battleforgondor",
-    "new": false
-  },
-  {
     "name": "Big Red Button",
     "image": "bigredbutton.png",
     "url": "bigredbutton",
@@ -231,12 +153,6 @@
     "name": "Black Hole Square",
     "image": "icon.png",
     "url": "blacholesquare",
-    "new": false
-  },
-  {
-    "name": "Black Knight",
-    "image": "blackknight.png",
-    "url": "blackknight",
     "new": false
   },
   {
@@ -264,18 +180,6 @@
     "new": false
   },
   {
-    "name": "Bob the Robber 2",
-    "image": "splash.jpeg",
-    "url": "bobtherobber2",
-    "new": false
-  },
-  {
-    "name": "Boxhead 2 Play",
-    "image": "boxhead2play.jpg",
-    "url": "boxhead2play",
-    "new": false
-  },
-  {
     "name": "Boxing Random",
     "image": "512x512.jpg",
     "url": "boxing-random",
@@ -300,18 +204,6 @@
     "new": false
   },
   {
-    "name": "Cannon Basketball 4",
-    "image": "img/splash.png",
-    "url": "cannon-basketball-4",
-    "new": false
-  },
-  {
-    "name": "Canyon Defense",
-    "image": "canyondefense.png",
-    "url": "canyondefense",
-    "new": false
-  },
-  {
     "name": "Cars Simulator",
     "image": "splash.png",
     "url": "cars-simulator",
@@ -321,24 +213,6 @@
     "name": "Cell Machine",
     "image": "img/te9nDu.png",
     "url": "cell-machine",
-    "new": false
-  },
-  {
-    "name": "Champion Island",
-    "image": "splash.png",
-    "url": "champion-island",
-    "new": false
-  },
-  {
-    "name": "Champion Archer",
-    "image": "championarcher.png",
-    "url": "championarcher",
-    "new": false
-  },
-  {
-    "name": "Chill Radio",
-    "image": "img/chill-icon.png",
-    "url": "chill-radio",
     "new": false
   },
   {
@@ -366,12 +240,6 @@
     "new": false
   },
   {
-    "name": "Connect 3",
-    "image": "connect3.png",
-    "url": "connect3",
-    "new": false
-  },
-  {
     "name": "Cookie Clicker",
     "image": "cookie1.jpeg",
     "url": "cookie-clicker",
@@ -381,12 +249,6 @@
     "name": "Core Ball",
     "image": "pr_source.png",
     "url": "core-ball",
-    "new": false
-  },
-  {
-    "name": "Craftmine",
-    "image": "images/animal-sheet0.png",
-    "url": "craftmine",
     "new": false
   },
   {
@@ -414,27 +276,9 @@
     "new": false
   },
   {
-    "name": "CTR Holiday",
-    "image": "favicon.ico",
-    "url": "ctr-holiday",
-    "new": false
-  },
-  {
-    "name": "CTR TR",
-    "image": "logo.png",
-    "url": "ctr-tr",
-    "new": false
-  },
-  {
     "name": "Cubefield",
     "image": "assets/unnamed.png",
     "url": "cubefield",
-    "new": false
-  },
-  {
-    "name": "Cupcake 2048",
-    "image": "favicon.ico",
-    "url": "cupcake2048",
     "new": false
   },
   {
@@ -456,33 +300,9 @@
     "new": false
   },
   {
-    "name": "Defend the Tank",
-    "image": "images/splash.jpg",
-    "url": "defend-the-tank",
-    "new": false
-  },
-  {
-    "name": "Doctor Acorn 2",
-    "image": "splash.jpg",
-    "url": "doctor-acorn2",
-    "new": false
-  },
-  {
-    "name": "Doge 2048",
-    "image": "doge1.jpeg",
-    "url": "doge2048",
-    "new": false
-  },
-  {
     "name": "Doodle Jump",
     "image": "doodle.png",
     "url": "doodle-jump",
-    "new": false
-  },
-  {
-    "name": "Double Wires",
-    "image": "doublewires.png",
-    "url": "doublewires",
     "new": false
   },
   {
