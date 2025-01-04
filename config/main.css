@@ -3,21 +3,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
 
 :root {
-  --background-color: #003ba8 !important;
+  --background-color: #354853 !important;
   --text-color: white !important;
-  --accent-color: #4b87f7 !important;
+  --accent-color: #486E84 !important;
 }
 
 
 * {
-  font-family: ubuntu;
+  font-family: Monospace;
   transition: all 0.3s ease;
 }
 /* General styles */
 body {
   background-color: var(--background-color);
   color: var(--text-color);
-  font-family: "ubuntu", sans-serif;
+  font-family: "Monospace", sans-serif;
   margin: 0;
   padding: 0;
   -webkit-user-select: none;
