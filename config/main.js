@@ -1,7 +1,7 @@
 // This changes the title of your site
 
 var sitename = "Nova Arcade"; // Change this to change the name of your website.
-var subtext = "Every Game At Your Fingertips. Try our other site https://sites.google.com/view/novaarcade/home?authuser=0"; // set the subtext
+var subtext = "Every Game At Your Fingertips. Try our other site https://sites.google.com/view/novaarcade/home"; // set the subtext
 
 // more settings in main.css
 
